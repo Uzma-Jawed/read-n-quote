@@ -1,0 +1,48 @@
+[
+    {
+        "title": "\"The Little Prince\"",
+        "author": "\"Antoine de Saint-Exup\u00e9ry\"",
+        "year": 1943,
+        "genres": [
+            " \"philosophy\"",
+            "\"existentialism\"]",
+            " \"adventure\"",
+            "[\"children's literature\"",
+            "\"fable\""
+        ],
+        "status": "completed"
+    },
+    {
+        "title": "\"The Midnight Library\"",
+        "author": "\"Matt Haig\"",
+        "year": 2020,
+        "genres": [
+            "\"fiction\"",
+            " \"self-discovery\"",
+            " \"mental health\""
+        ],
+        "status": "reading"
+    },
+    {
+        "title": "\"The Calculating Stars\"",
+        "author": "\"Mary Robinette Kowal\"",
+        "year": 2018,
+        "genres": [
+            " \"space race\"",
+            "\"science fiction\"",
+            " \"alternate history\""
+        ],
+        "status": "on hold"
+    },
+    {
+        "title": "\"Klara and the Sun\"",
+        "author": "\"Kazuo Ishiguro\"",
+        "year": 2021,
+        "genres": [
+            " \"dystopian\"",
+            "\"science fiction\"",
+            " \"ai\""
+        ],
+        "status": "reading"
+    }
+]
