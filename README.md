@@ -1,47 +1,47 @@
-### Python Concepts Practiced in This Project
+Hi, I'm Uzma Jawed ✨
+I'm passionate about reading, creativity, and tech.
+Follow for my journey into AI and building fascinating digital things.
+Linkedin:🔗https://pk.linkedin.com/in/uzma-jawed-21684728b
 
-**Project:** Personal Reading Journal & Quote Collector  
-A CLI (Command-Line Interface) app to track books, quotes, and reading progress using Python basics.
+### 📚 Read-n-Quote
 
+A **Personal Reading Journal and Quote Collector** built with Python.  
+Log your favorite books, track reading progress, and store inspiring quotes all in one place!
 ---
 
-### Core Python Skills
+###  Features
 
-- **Control Flow:**
-  - Menu-driven program using `while` loops and `if-elif-else`
-  - User input validation and branching
-
-- **Functions & Modularity:**
-  - Custom user-defined functions
-  - Clean separation into files (`main.py`, `book_manager.py`, etc.)
-
-- **Data Structures:**
-  - `Lists` to store books and quotes
-  - `Dictionaries` to represent each entry
-  - `Sets` to manage unique genres
-  - Nested structures like `list of dicts`
-
-- **File Handling with JSON:**
-  - Persistent data storage with `json.dump()` and `json.load()`
-  - Save/load books and quotes automatically
-
-- **String Handling:**
-  - Case-insensitive comparisons using `.lower()`
-  - Neat output formatting with f-strings
-
-- **Error Handling:**
-  - Handling invalid inputs with `try-except`
-
-- **Basic Data Analysis:**
-  - Count books by year/status
-  - Most quoted book & most frequent author
-  - Used `collections.Counter` for analysis
-
+- Add, view, search, update, and delete book entries
+- Add and search quotes
+- Filter by genre, year, or status
+- Save data in `.json` files
 ---
 
-### ✨ Extra Skills
+###🧪 How to Run
 
-- Modular code design across multiple files
-- Organized GitHub repository with clear structure
-- CLI logic for real-world use cases
-- Self-documented code with meaningful function names
+1. **Clone this repository:**
+git clone https://github.com/Uzma-Jawed/read-n-quote.git
+2. Open the folder in VS Code
+3. Run:
+Python main.py
+___
+
+File structure📁
+
+read-n-quote/
+
+|
+
+├── main.py(main app menu)
+
+├── book_manager.py(Book-related features)
+
+├── quote_manager.py(Quote-related features)
+
+├── file_manager.py(File loading/saving and normalization)
+
+├── books.json(Saved books data)
+
+├── quotes.json(Saved quotes data)
+
+└── README.me(Project documentation)
